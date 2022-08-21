@@ -1,0 +1,35 @@
+.ipt{
+    border: 2px solid black;
+}
+
+/* Nav-bar */
+
+.flex-li li{
+    display: inline-block;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.test{
+    margin-top: 20px;
+}
+
+/* Nav-bar */
+
+.box{
+    width: 250px;
+    height: 250px;
+    border: 2px solid red;
+}
+.order-box{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.blog-list{
+    width: 250px;
+    height: 250px;
+    border: 2px solid red;
+}
